@@ -1,0 +1,4 @@
+/home/george/Downloads/clion-2019.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/george/Documents/ECS_36B/TicTacToe
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/george/Documents/ECS_36B/TicTacToe/cmake-build-debug
